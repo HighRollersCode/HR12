@@ -1,0 +1,6 @@
+// Shoot all balls while another robot feeds us
+
+DriveTicksHeading 100.0 30.0
+DriveTicksHeading 100 30
+DriveTicksHeading -1 0.0
+SetArmPID 1 1 1
